@@ -1,5 +1,5 @@
 import React from 'react';
-import { Cpu, Database, Radio, ShieldCheck, Star, Zap } from 'lucide-react';
+import { Binary, Cpu, Database, Radio, ShieldCheck, Star, Zap } from 'lucide-react';
 
 const services = [
   { title: "Network Infiltration", code: "PROT_01", desc: "Full spectrum radio and physical network perimeter bypass simulations.", icon: Radio },
